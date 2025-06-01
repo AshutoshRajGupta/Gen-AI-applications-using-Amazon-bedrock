@@ -1,6 +1,6 @@
 # BLOG GENERATION GENERATIVE AI APP USING AMAZON BEDROCK
 
-````markdown
+
 # 🧠 AI Agent for Blog Generation using Amazon Bedrock
 
 This project demonstrates how to build a **Generative AI agent application** using **Amazon Bedrock** with the **Meta LLaMA3-8B-Instruct model**. It allows users to generate blog content based on a given topic, using an API-driven architecture powered by **AWS Lambda**, **Amazon API Gateway**, **Amazon S3**, and **CloudWatch**.
@@ -120,7 +120,7 @@ def blog_generate_using_bedrock(blogtopic: str) -> str:
      }
      ```
 
----
+
 
 ## 📂 Example Output
 
